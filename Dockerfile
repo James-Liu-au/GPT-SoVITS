@@ -10,7 +10,7 @@ LABEL description="Docker image for GPT-SoVITS"
 ENV DEBIAN_FRONTEND=noninteractive
 ENV TZ=Etc/UTC
 RUN apt-get update && \
-    apt-get install -y --no-install-recommends tzdata ffmpeg libsox-dev parallel aria2 git git-lfs && \
+    apt-get install -y --no-install-recommends tzdata ffmpeg libsox-dev parallel curl aria2 git git-lfs && \
     git lfs install && \
     rm -rf /var/lib/apt/lists/*
 

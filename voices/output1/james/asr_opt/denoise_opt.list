@@ -1,0 +1,15 @@
+/workspace/voices/output/james/denoise_opt/James-voice.wav_0000063040_0000232000.wav|denoise_opt|ZH|为什么要打标达标，就是给每个音频配上文字。
+/workspace/voices/output/james/denoise_opt/James-voice.wav_0000232000_0000385600.wav|denoise_opt|ZH|这样能让ai学习到每个字应该怎么读？
+/workspace/voices/output/james/denoise_opt/James-voice.wav_0000385600_0000618240.wav|denoise_opt|ZH|这里的标指的是标注，这步很简单，只要把刚才的切分文件输入。
+/workspace/voices/output/james/denoise_opt/James-voice.wav_0000636160_0000806080.wav|denoise_opt|ZH|如果你音频降噪过，那么默认是output.
+/workspace/voices/output/james/denoise_opt/James-voice.wav_0000806080_0001021440.wav|denoise_opt|ZH|Slice and school OPT文件夹，如果你切分了没有降噪。
+/workspace/voices/output/james/denoise_opt/James-voice.wav_0001021440_0001176000.wav|denoise_opt|ZH|那么默认的是output slice OPT.
+/workspace/voices/output/james/denoise_opt/James-voice.wav_0001361920_0001525120.wav|denoise_opt|ZH|Whisper达摩ASR只能用于识别中文。
+/workspace/voices/output/james/denoise_opt/James-voice.wav_0001525120_0001701440.wav|denoise_opt|ZH|效果也最好，fast whisper可以标注九十九种语言。
+/workspace/voices/output/james/denoise_opt/James-voice.wav_0001701440_0001810880.wav|denoise_opt|ZH|是目前最好的英语和日语识别。
+/workspace/voices/output/james/denoise_opt/James-voice.wav_0001830400_0001951680.wav|denoise_opt|ZH|模型尺寸选择，第三号。
+/workspace/voices/output/james/denoise_opt/James-voice.wav_0001951680_0002180800.wav|denoise_opt|ZH|语种选择自动就可以了，然后点开启离线批量ASR.
+/workspace/voices/output/james/denoise_opt/James-voice.wav_0002180800_0002429440.wav|denoise_opt|ZH|就写好了，默认输出是这个路径，建议不要修改输出路径，到时候找不到文件。
+/workspace/voices/output/james/denoise_opt/James-voice.wav_0002450240_0002570880.wav|denoise_opt|ZH|Asr需要一定时间看着控制台。
+/workspace/voices/output/james/denoise_opt/James-voice.wav_0002576000_0002743680.wav|denoise_opt|ZH|有没有报错就好了。如果有字幕可以用字幕标注。
+/workspace/voices/output/james/denoise_opt/James-voice.wav_0002758720_0002887040.wav|denoise_opt|ZH|准确多了，内嵌字母或者外挂字母都可以。
